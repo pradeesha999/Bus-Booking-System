@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mad</string>
+
+    <string-array name="bus_options">
+        <item>Passengers</item>
+        <item>Bus drivers</item>
+        <item>Bus owners</item>
+    </string-array>
+
+</resources>
+
